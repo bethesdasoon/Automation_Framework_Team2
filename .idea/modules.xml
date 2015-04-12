@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon_/Amazon_.iml" filepath="$PROJECT_DIR$/Amazon_/Amazon_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChaseBank/ChaseBank.iml" filepath="$PROJECT_DIR$/ChaseBank/ChaseBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cnn/Cnn.iml" filepath="$PROJECT_DIR$/Cnn/Cnn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewyorkLife/NewyorkLife.iml" filepath="$PROJECT_DIR$/NewyorkLife/NewyorkLife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing_01.iml" filepath="$PROJECT_DIR$/Testing_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yahoo/Yahoo.iml" filepath="$PROJECT_DIR$/Yahoo/Yahoo.iml" />
+    </modules>
+  </component>
+</project>

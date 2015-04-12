@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+        <suite name="newyork life home page suite name">
+
+    <parameter name ="url" value="http://www.newyorklife.com"/>
+
+    <parameter name = "url1" value = "http://www.yahoo.com"/>
+
+    <test name="newyork life home page">
+
+        <classes>
+            <class name ="NewyorkLifeClass"/>
+        </classes>
+
+    </test>
+</suite>

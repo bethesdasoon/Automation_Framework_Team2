@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+        <suite name="cnn home page">
+
+    <parameter name ="url" value="http://www.cnn.com"/>
+
+    <parameter name = "url1" value = "http://www.yahoo.com"/>
+
+    <test name="cnn home page">
+
+        <classes>
+            <class name ="CnnHome"/>
+        </classes>
+
+    </test>
+</suite>
+
