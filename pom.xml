@@ -12,12 +12,12 @@
         <module>Common</module>
         <module>Cnn</module>
         <module>NewyorkLife</module>
-        <module>Amazon</module>
-        <module>Amazon</module>
         <module>Yahoo</module>
         <module>Amazon_</module>
-        <module>ChaseBank</module>
         <module>Facebook</module>
+
+        <module>CharacterArcade</module>
+        <module>CapitalOne</module>
     </modules>
     <dependencyManagement>
     <dependencies>

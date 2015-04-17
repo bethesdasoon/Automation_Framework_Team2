@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Amazon_/Amazon_.iml" filepath="$PROJECT_DIR$/Amazon_/Amazon_.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ChaseBank/ChaseBank.iml" filepath="$PROJECT_DIR$/ChaseBank/ChaseBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CapitalOne/CapitalOne.iml" filepath="$PROJECT_DIR$/CapitalOne/CapitalOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharacterArcade/CharacterArcade.iml" filepath="$PROJECT_DIR$/CharacterArcade/CharacterArcade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cnn/Cnn.iml" filepath="$PROJECT_DIR$/Cnn/Cnn.iml" />
       <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />

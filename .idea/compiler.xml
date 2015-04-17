@@ -25,6 +25,8 @@
         <processorPath useClasspath="true" />
         <module name="Amazon" />
         <module name="Amazon_" />
+        <module name="CapitalOne" />
+        <module name="CharacterArcade" />
         <module name="ChaseBank" />
         <module name="Cnn" />
         <module name="Common" />

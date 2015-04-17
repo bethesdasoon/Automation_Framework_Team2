@@ -40,6 +40,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/BestBuy/pom.xml" />
       </set>
     </option>
   </component>

@@ -1,23 +1,19 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Amazon home page">
+<suite name="CharacterArcade home page">
 
-    <parameter name ="url" value="http://www.amazon.com"/>
+    <parameter name ="url" value="http://www.characterarcade.com"/>
 
     <parameter name = "url1" value = "http://www.yahoo.com"/>
 
-    <test name="Amazon Test home page">
+    <test name="CharacterArcade Test home page">
 
         <classes>
-            <class name ="AmazonHome"/>
-            <class name ="SignUp"/>
+            <class name ="CharacterArcadeHome"/>
+
         </classes>
 
     </test>
 </suite>
-
-
-
-
 
